@@ -1,5 +1,5 @@
 # Bomberman game
 
-Made for the POO class in ISEL
+Hình ảnh minh họa game
 
 ![Bomberman](bomber.png)
